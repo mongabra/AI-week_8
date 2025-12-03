@@ -1,3 +1,5 @@
+# CASE STUDY ANALYSIS; SECTION 2
+
 # 🤖 Smart Manufacturing Implementation Strategy: AutoParts Inc.
 
 This document outlines the proposed strategy, financial analysis (ROI), and risk assessment for implementing AI Agents at AutoParts Inc. to address challenges in quality, downtime, and labor efficiency.
