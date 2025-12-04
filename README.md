@@ -1,4 +1,16 @@
-# CASE STUDY ANALYSIS; SECTION 2
+# ⛑️ AI FOR SOFTWARE ENGINEERING FINAL PROJECT
+
+## 👥 Group Members
+1. [George Omondi Alando-Group Leader]
+2. [Maureen Gathoni]
+3. [Francis Promise]
+4. [Bill Clinton Onyango]
+5. [Erick Midida]
+6. [Abraham Sitori]
+
+---
+
+# Case Study Analysis; Section 2
 
 # 🤖 Smart Manufacturing Implementation Strategy: AutoParts Inc.
 
