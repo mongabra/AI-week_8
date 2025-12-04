@@ -72,3 +72,9 @@ Addressing risks across technical, organizational, and ethical domains is crucia
 | **Organizational** | **Workforce Resistance:** Skilled workers fear job displacement or lack the skills required for the new AI infrastructure roles. | Implement a mandatory **Reskilling and Upskilling Program**. Reassign experienced workers from repetitive monitoring tasks to higher-value roles (e.g., AI model monitoring, advanced troubleshooting, and maintenance scheduling optimization). Ensure early worker involvement in design. |
 | **Organizational** | **Vendor Lock-in:** Dependence on a single AI/IIoT platform vendor limits future flexibility and scalability. | Design the solution using **modular, open-standard components** (e.g., MQTT for messaging). Prioritize vendor-agnostic containerization (e.g., using Kubernetes) to maintain system portability and competitive vendor sourcing. |
 | **Ethical** | **Algorithmic Bias in PO:** Optimization agent unintentionally favors specific product lines or shifts labor burdens disproportionately to certain shifts or teams. | Conduct **Fairness Audits** on the Production Optimization Agent's decision logs. Ensure scheduling metrics are balanced across all shifts and do not implicitly penalize human workers based on factors that could proxy for age or tenure. |
+
+---
+
+## Task 4: AI Agent Simulation
+The workflow diagram clearly illustrates the decision-making process.
+![Completed n8n Predictive Maintenance Workflow](workflow_diagram.png "AI Agent Simulation Diagram")
